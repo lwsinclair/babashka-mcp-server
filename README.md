@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/bmorphism-babashka-mcp-server)
+
 # Babashka MCP Server
 
 A Model Context Protocol server for interacting with [Babashka](https://github.com/babashka/babashka), a native Clojure interpreter for scripting.
